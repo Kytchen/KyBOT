@@ -1,0 +1,32 @@
+{
+  "name": "kybot",
+  "version": "1.0.0",
+  "description": "Whatsapp BOT for Android/iOS/Linux",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "code": "node index --RikyBOT",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kythcen/KyBOT.git"
+  },
+  "keywords": [
+    "wa",
+    "whatsapp",
+    "kybot",
+    "nodejs",
+    "baileys"
+  ],
+  "author": "Riky Ripaldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kythcen/KyBOT/issues"
+  },
+  "homepage": "https://github.com/Kythcen/KyBOT#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
