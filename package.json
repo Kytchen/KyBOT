@@ -25,8 +25,5 @@
   "bugs": {
     "url": "https://github.com/Kythcen/KyBOT/issues"
   },
-  "homepage": "https://github.com/Kythcen/KyBOT#readme",
-  "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0"
-  }
+  "homepage": "https://github.com/Kythcen/KyBOT#readme"
 }
