@@ -11,4 +11,4 @@ $ node index.js
 
 * Made with 🩷 by Riky Ripaldo
 
-# 🇵� Free Palestine �🇮🇩
+# 🇵🇸 Free Palestine 🇮🇩
